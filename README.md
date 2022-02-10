@@ -1,2 +1,2 @@
 # Projeto-Netflix
-recriando site netflix
+Recriando interface netflix
